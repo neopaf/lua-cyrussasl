@@ -1,5 +1,5 @@
  package = "cyrussasl"
- version = "1.1.0-1"
+ version = "1.1.0-9"
  source = {
     url = "git://github.com/JorjBauer/lua-cyrussasl",
     tag = "v1.1.0"

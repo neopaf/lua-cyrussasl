@@ -1,1 +1,4 @@
 .build_version
+*.o
+*.so
+*.rock
