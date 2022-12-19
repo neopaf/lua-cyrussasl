@@ -8,6 +8,12 @@ Install https://www.cyrusimap.org/sasl/
 brew install cyrus-sasl
 ```
 
+## Linux
+
+```bash
+#TODO
+```
+
 # Build
 
 ```bash
